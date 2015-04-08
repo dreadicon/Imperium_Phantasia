@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a974ff50060f5394092c1abc4a99df43
+timeCreated: 1427130829
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - testCursor: {instanceID: 0}
+  - activeCursor: {instanceID: 0}
+  - selectCursor: {fileID: 2800000, guid: bb4deb2f778c86248a2ea1e18e81ffb6, type: 3}
+  - leftCursor: {fileID: 2800000, guid: 279f262b0dfee8547940ff15b4a82e57, type: 3}
+  - rightCursor: {fileID: 2800000, guid: 0a0487f9cce689e46a3ae4fa7572f3a0, type: 3}
+  - upCursor: {fileID: 2800000, guid: b8f72a9405df3a648aa53c684422d788, type: 3}
+  - downCursor: {fileID: 2800000, guid: 91069c5a75d03c9469e1a7dc28f7afc7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
