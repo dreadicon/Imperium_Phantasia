@@ -5,4 +5,4 @@ The game is all about letting you decide how complicated it is. Just like a real
 
 
 License:
-Presently the code is available publicly for demonstration purposes. However, I (Brad Petry) retain all rights to the code at present otherwise, unless specified in an individual source file.
+Presently the code is available publicly for demonstration purposes. However, I (Brad Petry) retain all rights to the code at present otherwise, unless specified in an individual source file. Copyright 2015 Brad Petry.
