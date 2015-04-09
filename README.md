@@ -4,7 +4,7 @@ Imperium Phantasia (working title) is a fantasy 4x game centeImperium Phantasia 
 The game is all about letting you decide how complicated it is. Just like a real ruler, you can (and sometimes should) let your advisors and other subordinates handle things. But you also don't have to.  If you just want to build some cities and explore the world, you can give vague orders to your treasurer and stuart, like "keep the peace, make sure our way of life doesn’t change, and build on trade and our cities as you can" then just let them handle production, cultural decisions, and the cultural/economic laws of your nation. You then can focus more on branching out and exploring, and look over a report they bring you every so many turns. Or not.
 
 ### Note:
-The game is in the earliest stages of development, and has little more than some menus, networking, game instantiation, and unit/pathfinding. 
+The game is in the earliest stages of development, and has little more than some menus, networking, game instantiation, and unit/pathfinding. Moreover, the folder and overarching structure of the source is messy, and will be frequently changing as it develops. I am however trying to keep the code at a good compromize between maintainability, efficiency, and productivity (at the end of the day, the best solution is the finished and functional one). I welcome any feedback.
 
 
 ### License:
